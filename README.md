@@ -1,8 +1,10 @@
 # Gym/Fitness Web App
 
-This is a web application for managing gym and fitness activities, created with **React** and **TypeScript**. It provides users with tools to track workouts, view fitness plans, and manage personal progress. Designed with a focus on usability and efficiency, this app aims to enhance the fitness journey for both trainers and trainees.
+A modern, fully responsive landing page for a fitness or gym business built with React, TypeScript, and Tailwind CSS. This project is designed to showcase a sleek and interactive UI with smooth scroll navigation, animations powered by Framer Motion, and form handling with React Hook Form.
 
-## Features
+![Screenshot](/public/cover-image.png)
+
+## Pages
 
 - **Home**: Log workouts, set goals, and track progress over time.
 - **Benefits**: Access a collection of exercises with descriptions and tutorials.
@@ -10,11 +12,25 @@ This is a web application for managing gym and fitness activities, created with 
 - **Contact us**: Contact submit form
 - **Responsive Design**: Optimized for various screen sizes, including mobile.
 
+## Features
+
+- 🔥 Built with Vite for lightning-fast development
+- ⚛️ Component-based structure using React 18
+- 🎨 Styled with Tailwind CSS and Prettier formatting
+- 🧩 Smooth scrolling navigation
+- 🏃‍♂️ Framer Motion animations for engaging UI transitions
+- 📬 Contact form with validation using React Hook Form
+- 💡 Fully responsive design – looks great on all screen sizes
+
 ## Technology Stack
 
-- **React**: For building the user interface.
-- **TypeScript**: For type-safe development and robust code.
-- **Tailwind CSS/Styled Components**: For responsive and customizable styling.
+- React + TypeScript
+- Tailwind CSS
+- Vite
+- Framer Motion
+- React Hook Form
+- Heroicons
+- ESLint + Prettier + Tailwind Plugin
 
 ## Installation
 
@@ -28,4 +44,16 @@ This is a web application for managing gym and fitness activities, created with 
 
 2. Install dependencies:
 
+```bash
+
 npm install
+
+```
+
+2. Run the development server:
+
+```bash
+
+npm run dev
+
+```
